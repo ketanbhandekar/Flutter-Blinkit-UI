@@ -21,7 +21,6 @@ Custom UI Helper methods for consistency
 flutter
 cupertino_icons
 
-
 Screenshots:->
 Here are some screenshots showcasing the UI and features of the Flutter-Blinkit-UI app:
 <img width="338" alt="image" src="https://github.com/user-attachments/assets/364ad400-adc8-4a09-b20a-f8914eafc652" />
